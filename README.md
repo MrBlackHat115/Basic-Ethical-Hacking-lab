@@ -2,16 +2,16 @@
 A hands-on, beginner-friendly lab that teaches the fundamentals of ethical hacking and penetration testing. Through guided exercises and vulnerable targets, learners practice reconnaissance, scanning, exploitation basics, privilege escalation, and reporting, all within a safe, legal environment.
 
 # Table of Contents
-* Installation Requirements
-    * VirtualBox 
-    * Kali Linux
-    * Metasploitable 2
-        * DVWA    
-    * Windows 10
-* Lab Structure
-* Fundamental Knowledge
-* Tools
-* Other Resources
+* **Installation Requirements**
+    * **VirtualBox** 
+    * **Kali Linux**
+    * **Metasploitable 2**
+        * **DVWA**    
+    * **Windows 10**
+* **Lab Structure**
+* **Fundamental Knowledge**
+* **Tools**
+* **Other Resources**
 
 # Installation Requirements
 ### **VirtualBox**
@@ -88,7 +88,7 @@ Click the small arrow beside Select → choose Download.
 
 Here is a full guide of setting up your lab network and machines if you need assistance.
 
-1. Kali (attacker)
+1. **Kali (attacker)**
 
    * In VirtualBox, click New.
 
@@ -104,7 +104,7 @@ Here is a full guide of setting up your lab network and machines if you need ass
      
    * After installation, take a snapshot named kali-clean.
 
-2. Metasploitable2
+2. **Metasploitable2**
 
    * If you have an OVA: VirtualBox → File → Import Appliance → select Metasploitable2 OVA → import.
    
@@ -118,7 +118,7 @@ Here is a full guide of setting up your lab network and machines if you need ass
   
    * Take a snapshot named msf2-baseline.
 
-3. Windows 10 (v1903 / 1909)
+3. **Windows 10 (v1903 / 1909)**
 
    * Name: Windows-10-1903 (or similar).
 
@@ -220,8 +220,12 @@ Here are a couple of tools I recommend you start with.
 
 * **Certifications:**
   
-     * TCM Practical Junior Penetration Tester (PJPT) Certification:
+     * **TCM Practical Junior Penetration Tester (PJPT) Certification:** https://certifications.tcm-sec.com/
  
-     * TCM Practical Network Penetration Tester (PNPT) Exam:
+     * **TCM Practical Network Penetration Tester (PNPT) Exam:** https://certifications.tcm-sec.com/
  
-     * OffSec PEN-200: Penetration Testing with Kali Linux: 
+     * **OffSec PEN-200: Penetration Testing with Kali Linux:** https://www.offsec.com/courses/pen-200/
+ 
+     * **CompTIA PenTest+ V3:** https://www.comptia.org/en-us/certifications/pentest/v3/
+ 
+     * **Certified Ethical Hacker (CEH) certification:** https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v13-north-america/
