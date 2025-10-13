@@ -140,11 +140,11 @@ Here is a full guide of setting up your lab network and machines if you need ass
 
 # Fundamental Knowledge
 
-1. Operating Systems: Understanding how processes, files, users, and permissions are managed is essential. Mastery of Linux and Windows helps identify vulnerabilities like misconfigured services, privilege escalation, rootkits, or malware.
+1. **Operating Systems:** Understanding how processes, files, users, and permissions are managed is essential. Mastery of Linux and Windows helps identify vulnerabilities like misconfigured services, privilege escalation, rootkits, or malware.
 
-2. Networking: All communication happens through networks. Understanding networking fundamentals like IP addressing, ports, protocols, and routing helps identify vulnerabilities like sniffing, man-in-the-middle (MitM) attacks, DDoS, or open service exploitation.
+2. **Networking:** All communication happens through networks. Understanding networking fundamentals, such as IP addressing, ports, protocols, and routing, helps identify vulnerabilities like sniffing, man-in-the-middle (MitM) attacks, DDoS attacks, or open service exploitation.
 
-3. Programming & Scripting: All applications and services are built using programming languages. Understanding programming and scripting (Python, Bash, PowerShell) helps identify vulnerabilities like buffer overflows, SQL injection, command injection, or weak automation scripts.
+3. **Programming & Scripting:** All applications and services are built using programming languages. Understanding programming and scripting languages (such as Python, Bash, and PowerShell) helps identify vulnerabilities, including buffer overflows, SQL injection, command injection, and weakly automated scripts.
 
 # Tools
 
