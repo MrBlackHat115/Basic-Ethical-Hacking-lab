@@ -1,6 +1,11 @@
 # Basic-Ethical-Hacking-lab
 A hands-on, beginner-friendly lab that teaches the fundamentals of ethical hacking and penetration testing. Through guided exercises and vulnerable targets, learners practice reconnaissance, scanning, exploitation basics, privilege escalation, and reporting, all within a safe, legal environment.
 
+# Disclaimer:
+This repository is created strictly for educational and ethical cybersecurity research. All code, scripts, and demonstrations are intended for use in controlled environments, on systems you own, or on systems where you have explicit written permission to test.
+The author is not responsible for any misuse, damage, or illegal activities performed with the information provided here.
+Use responsibly. Stay ethical.
+
 # Table of Contents
 * **Installation Requirements**
     * **VirtualBox** 
