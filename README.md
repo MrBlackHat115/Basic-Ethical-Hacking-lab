@@ -109,7 +109,7 @@ Here is a full guide of setting up your lab network and machines if you need ass
      
    * After installation, take a snapshot named kali-clean.
 
-2. **Metasploitable2**
+2. **Metasploitable2 (victim)**
 
    * If you have an OVA: VirtualBox → File → Import Appliance → select Metasploitable2 OVA → import.
    
@@ -123,7 +123,7 @@ Here is a full guide of setting up your lab network and machines if you need ass
   
    * Take a snapshot named msf2-baseline.
 
-3. **Windows 10 (v1903 / 1909)**
+3. **Windows 10 (v1903 / 1909) (victim)**
 
    * Name: Windows-10-1903 (or similar).
 
